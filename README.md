@@ -14,3 +14,6 @@ J.A.T.E is installable and uses service workers to save static assets for offlin
 - intalling the project allows for offline use 
 - data is saved multiple ways to ensure persistence
 
+## Screenshot 
+![Screenshot](./Screenshot.jpg)
+
